@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello world! 1vet 
 hello GIT
+=======
+hello world! 1vet
+xxx
+>>>>>>> master
